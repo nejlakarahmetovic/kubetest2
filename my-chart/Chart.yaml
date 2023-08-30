@@ -1,0 +1,4 @@
+apiVersion: v2
+name: kube-app
+description: My Application Helm Chart
+version: 2023.08.29

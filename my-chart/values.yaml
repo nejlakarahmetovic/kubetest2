@@ -1,0 +1,6 @@
+replicaCount: 1
+image:
+  repository: nejlakarahmetovic/kubetest2
+  tag: latest
+service:
+  port: 8081
